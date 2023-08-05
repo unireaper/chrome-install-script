@@ -11,7 +11,7 @@ Ruby
 ruby chromeyukle.rb
 ```
 Python
-```Python
+```python
 python chromeyukle.py
 ```
 
